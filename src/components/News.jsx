@@ -4,7 +4,7 @@ import './News.css';
 
 export default class News extends Component {
     render() {
-        return(
+        return (
             <div>
                 <Image src="assets/mountain-man.jpg" className="header-image" />
                 <Container>
