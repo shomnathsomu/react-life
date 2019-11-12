@@ -8,7 +8,7 @@ export default class Navigation extends Component {
         return (
             <Navbar default collapseOnSelect  bg="primary" variant="dark" expand="lg">
                 <Container>
-                    <Navbar.Brand to="/">Code Life</Navbar.Brand>
+                    <Navbar.Brand to="/">React Life</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="mr-auto">
